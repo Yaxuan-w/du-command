@@ -1,7 +1,7 @@
 # du-command
 Implementation of du command line in xv6
 
-## Create a user program named “du” that prints a list of the files in the current directory (where the program was run), with their on-disk size in bytes.  The final line prints the sum of all of the sizes of the files within the directory.
+### Create a user program named “du” that prints a list of the files in the current directory (where the program was run), with their on-disk size in bytes.  The final line prints the sum of all of the sizes of the files within the directory.
 
 ## Expected Behaviors:
 - Size is considered to be the byte count stored in the xv6 stat structure.
